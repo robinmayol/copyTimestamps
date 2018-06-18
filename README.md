@@ -13,7 +13,7 @@ aFolder/<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Picture_001.jpg<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Picture_002.jpg<br/>
 
-Then navigate to the folder using cd<br/>
+2. Navigate to the folder using cd<br/>
 <code>cd ./aFolder/</code><br/>
-execute the script<br/>
+3. Execute the script<br/>
 <code>./_copyTimestamps.sh</code><br/>
